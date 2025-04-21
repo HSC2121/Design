@@ -13,10 +13,15 @@ Este proyecto es una entrega para el curso de Desarrollo Web en CoderHouse.
 
 ## 🖼️ Vista previa
 
-👉 [Accedé al sitio online aquí] https://hsc2121.github.io/repo-coder/  
+👉 [Accedé al sitio online aquí](https://hsc2121.github.io/repo-coder/)
+ 
 ---
 
 ## 📁 Estructura del proyecto
+
+- `index.html`: Página principal
+- `pages/`: Contiene las páginas internas como contacto, sobre nosotros, etc.
+- `styles/`: Archivos CSS personalizados
 
 
 ---
