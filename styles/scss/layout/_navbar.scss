@@ -1,0 +1,17 @@
+.navbar-brand {
+    color: $primary !important;
+  }
+  
+  .navbar-nav {
+    .nav-link {
+      &:hover {
+        color: $primary-hover !important;
+      }
+  
+      &.active {
+        font-weight: bold;
+        color: $primary !important;
+      }
+    }
+  }
+  

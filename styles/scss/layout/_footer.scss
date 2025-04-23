@@ -1,0 +1,13 @@
+footer {
+    background-color: $gray-light;
+  
+    a {
+      color: $gray-dark;
+  
+      &:hover {
+        color: $primary;
+        text-decoration: underline;
+      }
+    }
+  }
+  
