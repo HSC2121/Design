@@ -1,6 +1,6 @@
 # Virtus.io — Academia Web3 🧠🚀
 
-Este proyecto es una entrega para el curso de Desarrollo Web en CoderHouse.  
+
 **Virtus.io** es una academia digital enfocada en la educación sobre **Blockchain, Criptomonedas, DeFi, NFTs y Web3**, construida con:
 
 - HTML semántico
