@@ -3,11 +3,10 @@
 
 **Virtus.io** es una academia digital enfocada en la educación sobre **Blockchain, Criptomonedas, DeFi, NFTs y Web3**, construida con:
 
-- HTML semántico
-- Bootstrap 5 para maquetación responsive
-- CSS personalizado para adaptar el estilo
-- Git y GitHub para control de versiones
-- GitHub Pages para el despliegue del sitio
+- HTML
+- Bootstrap 5 
+- CSS
+- GitHub Pages (soon to be hosted)
 
 ---
 
